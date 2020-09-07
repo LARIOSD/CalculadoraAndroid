@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">PrimerTaller</string>
+    <string name="User">User name</string>
+    <string name="password">Password</string>
+    <string name="mensajeError1">Datos invalidos</string>
+    <string name="welcome">Welcome</string>
+    <string name="get">Get in</string>
+    <string name="cancel">Cancel</string>
+    <string name="copy">\u00A9 2020 By Larios David</string>
+    <string name="up">Sign up</string>
+    <string name="recoverPass">¿ Forgot your password ?</string>
+    <string name="calcu">Calculator</string>
+    <string name="num1">First number</string>
+    <string name="num2">Second number</string>
+    <string name="sum">+</string>
+    <string name="res">-</string>
+    <string name="multi">*</string>
+    <string name="mayor"> > </string>
+    <string name="div">/</string>
+    <string name="mcm">MCM</string>
+    <string name="mcd">MCD</string>
+    <string name="result">Result</string>
+    <string name="enterNum">Enter number</string>
+    <string name="cero">0</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>
