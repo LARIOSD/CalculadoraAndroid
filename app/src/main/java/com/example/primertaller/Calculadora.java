@@ -63,10 +63,10 @@ public class Calculadora extends AppCompatActivity{
             }
         });
 
+        /*
         div.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-
                 int b = Integer.parseInt(num2.getText().toString());
                 if( b == 0 ){
                     result.setText("Error");
@@ -74,6 +74,8 @@ public class Calculadora extends AppCompatActivity{
                 result.setText(division(Integer.parseInt(num1.getText().toString()), Integer.parseInt(num2.getText().toString())) + "");
             }
         });
+
+         */
 
         mcm.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -110,7 +112,9 @@ public class Calculadora extends AppCompatActivity{
         return a;
     }
 
+    /*
     public int division(int a , int b){ return  a / b; }
+     */
 
     public int mcmm (int a , int b){
         int mcm = 1;
